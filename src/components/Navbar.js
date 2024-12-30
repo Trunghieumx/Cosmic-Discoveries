@@ -16,8 +16,8 @@ function Navbar({ onSelectIcon }) {
       navigate('/'); // Điều hướng về Home chính
     } else if (iconName === 'obser') {
       navigate('/obser'); // Điều hướng đến trang Observatory
-    } else if (iconName === 'astronut') {
-      navigate('/astronut'); // Điều hướng đến trang Astronaut
+    } else if (iconName === 'about') {
+      navigate('/about'); // Điều hướng đến trang Astronaut
     } else {
       onSelectIcon && onSelectIcon(iconName); // Xử lý icon khác nếu cần
     }
@@ -51,8 +51,8 @@ function Navbar({ onSelectIcon }) {
           <img src="./images/iconexplore.png" alt="Explore" />
         </div>
         <div
-          className={`eclipse ${selectedIcon === 'astronut' ? 'selected' : ''}`}
-          onClick={() => handleClick('astronut')}
+          className={`eclipse ${selectedIcon === 'about' ? 'selected' : ''}`}
+          onClick={() => handleClick('about')}
         >
           <img src="./images/iconastronut.png" alt="About" />
         </div>
