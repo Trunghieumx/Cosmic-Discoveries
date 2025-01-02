@@ -14,8 +14,16 @@
     height: 100%;
     width: 100%;
     display: flex;
-    gap: 10px
+    justify-content: space-between; /* Cách đều 2 bên */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    gap: 10px;
 }
+
+.explore, .infor {
+    flex: 1; /* Chia đều không gian */
+    margin: 0 20px; /* Khoảng cách giữa các phần tử */
+}
+{/**/}
 
 .explore {
     box-sizing: border-box;
