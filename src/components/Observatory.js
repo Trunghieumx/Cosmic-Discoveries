@@ -68,9 +68,9 @@ function Observatory() {
     return ( 
         <div className="container">
             <SolarPanel onExplore={() => handleChangeContent('SolarSystem')} />
-            <div className="content-container">
+            <div className="content-container1">
                 <div className="explore">
-                    <div className="button-container1">
+                    <div className="button-container">
                         <div className="button" onClick={() => toggleLists('observatories')}>Observatory</div>
                         <div className="button" onClick={() => toggleLists('constellations')}>Constellations</div>
                     </div>
