@@ -26,7 +26,7 @@ function App() {
         <Route path="/obser" element={<Observatory />} />
         <Route path="/explore" element={<YouTubeVideos />} />
         <Route path="/about" element={<About />} />
-        {/* test */}
+        {/*testt */}
       </Routes>
 
     </>
