@@ -38,7 +38,7 @@ function LickCard() {
             <div className="video">
                 <img src="./images/iconmap.png" alt="Map" onClick={handleMapClick} />
             </div>
-            <div className="ob-container"></div>
+
             <div className="infor1">
                 <div className="title">Location</div>
                 <div className="content">
