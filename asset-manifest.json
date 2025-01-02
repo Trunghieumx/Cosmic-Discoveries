@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.4b4e6120.css",
-    "main.js": "./static/js/main.eab4896e.js",
+    "main.css": "./static/css/main.6c3856c7.css",
+    "main.js": "./static/js/main.526f41dd.js",
     "static/js/453.9dc91dfb.chunk.js": "./static/js/453.9dc91dfb.chunk.js",
     "static/media/Kiit Peak.png": "./static/media/Kiit Peak.906dbcb180d440881352.png",
     "static/media/Arecibo.png": "./static/media/Arecibo.703342b0f4cbc652e113.png",
@@ -33,12 +33,12 @@
     "static/media/moonpanel.png": "./static/media/moonpanel.a9783adfd2ea95a38933.png",
     "static/media/chòm sao Ursa.jpg": "./static/media/chòm sao Ursa.7489fcb6e197a9c081ea.jpg",
     "index.html": "./index.html",
-    "main.4b4e6120.css.map": "./static/css/main.4b4e6120.css.map",
-    "main.eab4896e.js.map": "./static/js/main.eab4896e.js.map",
+    "main.6c3856c7.css.map": "./static/css/main.6c3856c7.css.map",
+    "main.526f41dd.js.map": "./static/js/main.526f41dd.js.map",
     "453.9dc91dfb.chunk.js.map": "./static/js/453.9dc91dfb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b4e6120.css",
-    "static/js/main.eab4896e.js"
+    "static/css/main.6c3856c7.css",
+    "static/js/main.526f41dd.js"
   ]
 }
