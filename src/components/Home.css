@@ -10,20 +10,12 @@
     box-sizing: border-box;
 }
 
-.content-container {
+.content-container1 {
     height: 100%;
     width: 100%;
     display: flex;
-    justify-content: space-between; /* Cách đều 2 bên */
-    align-items: center; /* Căn giữa theo chiều dọc */
-    gap: 10px;
+    gap: 10px
 }
-
-.explore, .infor {
-    flex: 1; /* Chia đều không gian */
-    margin: 0 20px; /* Khoảng cách giữa các phần tử */
-}
-{/**/}
 
 .explore {
     box-sizing: border-box;

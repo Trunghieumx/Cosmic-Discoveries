@@ -59,7 +59,7 @@ function Home() {
     <div className="container">
       <SolarPanel onExplore={() => handleChangeContent('SolarSystem')}/>
       {!isContentContainerHidden && ( // Hide content-container if isContentContainerHidden = true
-      <div className="content-container">
+      <div className="content-container1">
         <div className="explore">
           <div className="button-container">
             <div className="button" onClick={() => handleChangeContent('BigBang')}>Big Bang</div>
