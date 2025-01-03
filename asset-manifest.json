@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.7113e878.css",
-    "main.js": "./static/js/main.4c24a7e0.js",
+    "main.js": "./static/js/main.9b0ac281.js",
     "static/js/453.9dc91dfb.chunk.js": "./static/js/453.9dc91dfb.chunk.js",
     "static/media/Kiit Peak.png": "./static/media/Kiit Peak.906dbcb180d440881352.png",
     "static/media/Arecibo.png": "./static/media/Arecibo.703342b0f4cbc652e113.png",
@@ -32,13 +32,14 @@
     "static/media/saturnpanel.png": "./static/media/saturnpanel.399b89df986597c9be35.png",
     "static/media/moonpanel.png": "./static/media/moonpanel.a9783adfd2ea95a38933.png",
     "static/media/chòm sao Ursa.jpg": "./static/media/chòm sao Ursa.7489fcb6e197a9c081ea.jpg",
+    "static/media/Sun.png": "./static/media/Sun.cb07906ccb33f1172150.png",
     "index.html": "./index.html",
     "main.7113e878.css.map": "./static/css/main.7113e878.css.map",
-    "main.4c24a7e0.js.map": "./static/js/main.4c24a7e0.js.map",
+    "main.9b0ac281.js.map": "./static/js/main.9b0ac281.js.map",
     "453.9dc91dfb.chunk.js.map": "./static/js/453.9dc91dfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7113e878.css",
-    "static/js/main.4c24a7e0.js"
+    "static/js/main.9b0ac281.js"
   ]
 }
